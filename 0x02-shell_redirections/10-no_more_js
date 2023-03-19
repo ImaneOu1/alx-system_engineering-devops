@@ -1,2 +1,2 @@
 #!/bin/bash
-rm .js pwd/*
+find . -type f -name "*.js" -delete
